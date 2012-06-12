@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  7 DEC 2011 23:49
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  12 JUN 2012 22:08
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **template.tex
 (./template.tex
@@ -671,24 +670,39 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--70
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
 
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 72.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 69.
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--85
+Underfull \hbox (badness 10000) in paragraph at lines 78--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
@@ -708,24 +722,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--90
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--95
+Underfull \hbox (badness 10000) in paragraph at lines 85--93
 
  []
 
 [1
 
 {/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
 
@@ -755,34 +769,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--105
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
+Underfull \hbox (badness 10000) in paragraph at lines 99--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--107
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--123
-
- []
-
-No file template.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+No file template.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
  (./template.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 149.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
 Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: D3FB48EAC1B783F6EBD38777AE7031D4;371.
  ) 
 Here is how much of TeX's memory you used:
- 6706 strings out of 493633
- 96771 string characters out of 3143378
- 195022 words of memory out of 3000000
+ 6707 strings out of 493633
+ 96777 string characters out of 3143378
+ 195015 words of memory out of 3000000
  9887 multiletter control sequences out of 15000+200000
  41878 words of font info for 36 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
@@ -795,10 +805,10 @@ ype1/public/lm/lmss12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/publi
 c/lm/lmss17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmssb
 x10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/lm/lmsso10.pfb><
 /usr/local/texlive/2011/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on template.pdf (2 pages, 167637 bytes).
+Output written on template.pdf (3 pages, 169437 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 94 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
